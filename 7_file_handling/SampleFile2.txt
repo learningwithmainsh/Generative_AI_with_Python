@@ -1,5 +1,0 @@
-Hello, World!
-Writing file by pythonHello, World!
-Writing file by pythonHello, World!
-Writing file by pythonHello, World!
-Writing file by python
